@@ -1,0 +1,4 @@
+Stm32_f103_c6_RCC_Driver.c:21:10:MCAL_RCC_GetSYS_CLKfreq	4	static
+Stm32_f103_c6_RCC_Driver.c:41:10:MCAL_RCC_GetHCLKfreq	8	static
+Stm32_f103_c6_RCC_Driver.c:47:10:MCAL_RCC_GetPCLK1freq	8	static
+Stm32_f103_c6_RCC_Driver.c:51:10:MCAL_RCC_GetPCLK2freq	8	static

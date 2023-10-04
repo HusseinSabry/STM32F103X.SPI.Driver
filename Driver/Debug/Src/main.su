@@ -1,0 +1,4 @@
+main.c:42:6:wait_ms	24	static
+main.c:54:6:Clk_Init	4	static
+main.c:67:6:Hussein_IRQ_Callback	8	static
+main.c:86:5:main	56	static
